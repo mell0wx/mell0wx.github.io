@@ -9,6 +9,8 @@
 
 **Full discalimer these are all the resouces that i've used. To be where i am today. This is no way "the only way" to learn cybersecurity and/or to secure a cybersecurity job**
 
+[Join this Cybersecurity Discord to ask questions](https://discord.com/servers/martian-defense-cyber-team-cybersecurity-966495228385198150)
+
 #### Complete Beginner (College Days)
 
 1. Linux 
@@ -60,6 +62,16 @@ Python
 
 *The Position "Security Engineer" is a very generic job title and could mean many things*
 
+Endpoint Security
+
+#### My Current Position
+
+
+A Deep Dive into Blue Teaming
+
+[Mitre Att&CK](https://attack.mitre.org/matrices/enterprise/)
+
+[Blue Team Labs Online](https://blueteamlabs.online/)
 
 
 
