@@ -69,6 +69,11 @@ Endpoint Security
 
 A Deep Dive into Blue Teaming
 
+[Splunk](https://www.splunk.com/en_us/training/free-courses/overview.html) 
+
+  a. [THM Boss of the SOC](https://tryhackme.com/room/splunk2gcd5)
+  b. [THM Boss of the SOC2](https://tryhackme.com/room/splunk3zs)
+
 [Mitre Att&CK](https://attack.mitre.org/matrices/enterprise/)
 
 [Blue Team Labs Online](https://blueteamlabs.online/)
