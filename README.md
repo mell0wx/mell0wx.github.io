@@ -82,8 +82,7 @@ Current Project: Kali Purple SOC in a Box
 
 https://gitlab.com/kalilinux/kali-purple/documentation/-/wikis/010_10:-Kali-Purple-SOC-IAB---Overview
 
-Progress: 0%
-
+Progress: ![](https://geps.dev/progress/0)
 
 
 
