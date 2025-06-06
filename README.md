@@ -78,9 +78,7 @@ A Deep Dive into Blue Teaming
 
 [Blue Team Labs Online](https://blueteamlabs.online/)
 
-Current Project: Kali Purple SOC in a Box
-
-https://gitlab.com/kalilinux/kali-purple/documentation/-/wikis/010_10:-Kali-Purple-SOC-IAB---Overview
+Current Project: Purple Team Lab
 
 Progress: ![](https://geps.dev/progress/0)
 
