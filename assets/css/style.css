@@ -1,0 +1,14 @@
+body {
+  background-color: #0d0d0d;
+  color: #33ff99;
+  font-family: 'Courier New', monospace;
+}
+
+a {
+  color: #00ffff;
+}
+
+h1, h2 {
+  color: #ff0066;
+  text-shadow: 0 0 5px #ff0066;
+}
