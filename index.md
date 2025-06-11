@@ -1,4 +1,3 @@
-<h1 class="glitch" data-text="mell0wx">mell0wx</h1>
 # mell0wx.github.io
 
 ### Current Job Position: Threat Hunting Analyst
