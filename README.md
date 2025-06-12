@@ -1,7 +1,7 @@
 # mell0wx.github.io
 
 Welcome to my cyber-themed GitHub Pages site!  
-This site serves as a landing page for my Purple Teaming Lab, Threat Simulation tools, and Detection Engineering experiments.
+This site serves as a brain dump of all things I care about.
 
 ## Live Site
 👉 [https://mell0wx.github.io](https://mell0wx.github.io)
