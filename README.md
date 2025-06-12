@@ -1,9 +1,21 @@
-# Odin Knowledge Base
+# mell0wx.github.io
 
-Odin is a Jekyll template for knowledgebases and support sites. Please see the [official Jekyll docs](https://jekyllrb.com/docs/) for more info on running, building and editing a Jekyll site.
+Welcome to my cyber-themed GitHub Pages site!  
+This site serves as a landing page for my Purple Teaming Lab, Threat Simulation tools, and Detection Engineering experiments.
 
-*Full documentation is in the works and coming soon*
+## Live Site
+👉 [https://mell0wx.github.io](https://mell0wx.github.io)
 
+## Features
+- Hacker-themed UI (neon/glitch/terminal look)
+- Cybersecurity-focused layout
+- Built with pure HTML/CSS (no frameworks)
 
+## Coming Soon
+- Purple Team Lab Docker instructions
+- Detection content
+- Splunk dashboards
 
+---
 
+🛠️ Built by [@mell0wx](https://github.com/mell0wx)
