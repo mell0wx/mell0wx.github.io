@@ -1,28 +1,21 @@
-# Moonrise Jekyll Theme
+# mell0wx.github.io
 
-###### (If you like this theme or using it, please give a :star: for motivation.)
+Welcome to my cyber-themed GitHub Pages site!  
+This site serves as a landing page for my Purple Teaming Lab, Threat Simulation tools, and Detection Engineering experiments.
 
-🌓 Moonrise is a fresh take on the classic **[Moon](https://github.com/TaylanTatli/Moon)** theme, with a modern design, improved responsiveness, and more customization options.
+## Live Site
+👉 [https://mell0wx.github.io](https://mell0wx.github.io)
 
 ## Features
+- Hacker-themed UI (neon/glitch/terminal look)
+- Cybersecurity-focused layout
+- Built with pure HTML/CSS (no frameworks)
 
--   Minimal, you can focus on your content
--   Responsive
--   Syntax highlighting
--   Optional post image
--   Social icons
--   Page for sharing projects
--   Optional background image
--   Simple navigation menu
--   MathJax support
+## Coming Soon
+- Purple Team Lab Docker instructions
+- Detection content
+- Splunk dashboards
 
-## Preview
+---
 
-![screenshot of Moonrise](https://github.com/TolgaTatli/Moonrise/assets/70089207/5c26850e-2969-45a1-b78d-f2ca9d168b8d)
-![screenshot of Moonrise](https://github.com/TolgaTatli/Moonrise/assets/70089207/cbe22ee3-e359-4ff9-a6d2-38427428d277)
-
-See a [live version of Moon](https://TolgaTatli.github.io/Moonrise) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](https://taylantatli.github.io/Moon/moon-theme/) for more information.
+🛠️ Built by [@mell0wx](https://github.com/mell0wx)
