@@ -1,7 +1,7 @@
 # Site
-title: Mell0wx 
-bio: "Personal Brain Dump"
-description: "Look around for some interesting stuff, or just read my blog posts."
+title: Mell0wx
+bio: "Minimal, one column jekyll theme."
+description: "Moonrise is a fresh take on the classic Moon"
 reading_time: true
 words_per_minute: 200
 logo: "assets/img/logo.png"
@@ -37,19 +37,19 @@ sass:
 #ad-slot:
 #bing-verify:
 #email:
-#twitter: username
-#facebook: username
-github-url: mell0wx
+twitter: username
+facebook: username
+github-url: username
 #stackoverflow: 123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin: username
 #xing: username
-#instagram: username
+instagram: username
 #lastfm: username
 #tumblr: username
 #medium: '@username'
 #pinterest: username
 #foursquare: username
-#steam: username
+steam: username
 #dribbble: username
 #youtube: username
 #youtube-channel: channel
