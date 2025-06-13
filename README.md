@@ -1,7 +1,5 @@
 # mell0wx.github.io
 
-![screenshot](https://raw.githubusercontent.com/TolgaTatli/Moonrise/master/screenshot.png)
-
 Welcome to **[mell0wx.github.io](http://mell0wx.github.io)** — my personal corner of the internet and ongoing **brain dump**.
 
 This site is built using the beautiful, dark-mode-friendly [Moonrise Jekyll Theme](https://github.com/TolgaTatli/Moonrise) and acts as a **living collection of notes, writeups, and resources** that reflect my interests and growth in tech and beyond.
