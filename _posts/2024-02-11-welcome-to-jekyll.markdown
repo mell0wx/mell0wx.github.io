@@ -1,29 +1,58 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2024-02-11 00:49:03 +0300
-categories: jekyll update
+title: "Welcome to My Brain Dump"
+#date: 2025-06-12
+categories: [intro, personal]
+tags: [cybersecurity, finance, tech, cars, notes]
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+Welcome to my digital brain dump 👋
 
-`YEAR-MONTH-DAY-title.MARKUP`
+This site is my open notebook — a living, breathing collection of thoughts, resources, and lessons across a mix of topics I care deeply about.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Rather than keeping everything scattered across bookmarks, docs, and post-its, I’m building this space to **centralize and share** what I’m learning and doing.
 
-Jekyll also offers powerful support for code snippets:
+### 🛡️ Cybersecurity
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+I'm passionate about Purple Teaming, Threat Hunting, and Incident Response. Expect to find:
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+- Lab setups using Docker, Vagrant, and Splunk
+- Attack simulations with Atomic Red Team
+- Detection engineering notes and use cases
+- Security scripts, toolkits, and cheat sheets
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+### 🚗 Automobiles
+
+I’m also a gearhead at heart. I’ll share:
+
+- DIY car maintenance logs
+- Performance mods and upgrades
+- Tips for buying, maintaining, and troubleshooting vehicles
+
+### 💰 Finance
+
+Money matters. I’ll be writing about:
+
+- Budgeting and personal finance strategies
+- Passive income ideas (especially tech-driven ones)
+- Side hustle experiments and reflections
+
+### 🖥️ Technology & Projects
+
+From scripting to homelabbing, I’ll post:
+
+- Automation walkthroughs (Ansible, Python, Bash)
+- Raspberry Pi and server experiments
+- GitHub project breakdowns
+- Tech reviews and tool comparisons
+
+### 🎯 And More…
+
+This is a brain dump — so whatever I find interesting, useful, or worth remembering might show up here: notes from certifications, book summaries, study guides, or random curiosity rabbit holes.
+
+---
+
+Whether you’re here to learn something new, build something better, or just browse, I hope you find value in what I share.
+
+Stay curious,  
+**EJ (a.k.a. mell0wx)** 🧠
