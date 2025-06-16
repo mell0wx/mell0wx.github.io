@@ -1,3 +1,6 @@
+layout: project
+title: "🧰 Tools for Power Users: From PS2EXE GUI to Windows Triage"
+
 # 🧰 Tools for Power Users: From PS2EXE GUI to Windows Triage
 
 Welcome to the mell0wx toolbox – a growing collection of practical, efficient, and GUI-friendly tools for Windows users, sysadmins, and cybersecurity enthusiasts. This post highlights four of my recent creations, each solving a real-world problem with a simple and user-friendly interface. Whether you're packaging PowerShell scripts, investigating suspicious logs, organizing files, or inspecting your hardware – there's something here for you.
