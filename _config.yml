@@ -6,7 +6,7 @@ url: https://mell0wx.github.io
 
 defaults:
   - scope:
-      path: "_docs" # an empty string here means all files in the project
+      path: "docs" # an empty string here means all files in the project
       type: "pages"
     values:
       layout: "default"
@@ -54,3 +54,6 @@ aux_links:
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
+
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
