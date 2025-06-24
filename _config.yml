@@ -3,3 +3,10 @@ description: Information about Mell0wx's projects, thoughts, and ideas.
 theme: just-the-docs
 
 url: https://mell0wx.github.io
+
+defaults:
+  - scope:
+      path: "_docs" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
