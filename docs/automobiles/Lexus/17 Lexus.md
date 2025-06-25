@@ -1,9 +1,9 @@
 ---
 title: Lexus
 layout: default
+nav_order: 1
 parent: Lexus
 grandparent: Automobiles
-nav_order: 2
 ---
 
 # 2017 Lexus RX 350 Owner Report
