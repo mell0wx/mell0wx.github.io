@@ -1,7 +1,7 @@
 ---
 title: Honda
-nav_title: Honda
-has_children: false
+layout: default
+nav_order: 1
 parent: automobiles
 permalink: /docs/automobiles/Honda
 ---
