@@ -2,8 +2,7 @@
 title: Honda
 layout: default
 nav_order: 1
-parent: automobiles
-permalink: /docs/automobiles/Honda
+parent: Automobiles
 ---
 
 # Honda
