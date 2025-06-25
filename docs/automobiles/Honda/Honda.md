@@ -1,7 +1,7 @@
 ---
 title: Honda
 layout: default
-parent: automobiles
+parent: Automobiles
 nav_order: 1
 ---
 

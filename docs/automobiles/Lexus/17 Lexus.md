@@ -1,5 +1,5 @@
 ---
-title: 17 - Lexus
+title: 17' - Lexus RX 350
 layout: default
 nav_order: 1
 parent: Lexus
