@@ -3,6 +3,7 @@ description: Information about Mell0wx's projects, thoughts, and ideas.
 theme: just-the-docs
 
 url: https://mell0wx.github.io
+repository: mell0wx/mell0wx.github.io
 
 defaults:
   - scope:
