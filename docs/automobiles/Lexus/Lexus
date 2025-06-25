@@ -1,6 +1,7 @@
 ---
 title: Lexus
 layout: default
+parent: automobiles
 nav_order: 2
 
 ---
