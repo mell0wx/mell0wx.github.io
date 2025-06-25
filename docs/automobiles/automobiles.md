@@ -1,7 +1,7 @@
 ---
 title: Automobiles
+layout: default
 nav_order: 2
-parent: Automobiles
 permalink: /docs/automobiles/
 ---
 
