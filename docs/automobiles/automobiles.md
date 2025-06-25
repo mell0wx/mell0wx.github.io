@@ -2,6 +2,7 @@
 title: Automobiles
 layout: default
 nav_order: 2
+permalink: /docs/automobiles/
 ---
 
 # Automobiles
