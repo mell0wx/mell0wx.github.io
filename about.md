@@ -4,7 +4,7 @@ title: About Me
 nav_order: 1.5
 ---
 
-## Hi, I'm Earl Alexander Jr.
+## Hi, Mell0wx!
 
 I'm an experienced security-focused engineer with a strong background in Incident Response, security operations, and Splunk. My expertise centers on leveraging security concepts and SIEM tools to detect, investigate, and respond to threats, while also building and automating solutions to enhance security posture.
 
